@@ -1,0 +1,513 @@
+.navbar
+{
+  align-items: stretch !important;
+  flex-direction: column;
+
+}
+
+.btn
+{
+  position: relative;
+  left: 90%;
+  border: 2px solid #e6323b!important;
+  background: #e6323b!important;
+  color:white!important;
+}
+.btn:hover
+{
+  position: relative;
+  left: 90%;
+  border: 2px solid #white!important;
+  background: white!important;
+  color:#e6323b!important;
+  font-weight: bold;
+}
+
+.nav-link
+{
+
+  position: relative;
+  left:200px;
+  font-size: 20px;
+  font-weight: bold;
+
+margin-left: 20px;s
+}
+
+
+.nav-link:hover
+{
+
+  position: relative;
+  left:200px;
+  font-size: 20px;
+  font-weight: bold;
+  background: #ed9421;
+  border: 2px solid #ed9421;
+  border-radius: 5px;
+  color: WHITE!important;
+margin-left: 20px;s
+}
+
+
+
+
+.img-fluid
+{
+  width: 100%;
+  height: 80vh!important;
+}
+
+
+
+.categories-area {
+    background-image: url(https://preview.colorlib.com/theme/personalportfolio/assets/img/gallery/xshape1.png.pagespeed.ic.qNAdfVi8OY.png);
+    background-size: 71%;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px)
+.section-padding3 {
+    padding-top: 60px;
+    padding-bottom: 0;
+}
+.section-padding3 {
+    padding-top: 150px;
+    padding-bottom: 0;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.section-tittle h2 {
+    font-size: 48px;
+    display: block;
+    color: #000a2d;
+    font-weight: 600;
+}
+
+.categories-area .single-cat {
+    border: 1px solid #e1ebf7;
+    border-radius: 6px;
+    padding: 61px 22px;
+    -webkit-transition: all .4s ease-out 0s;
+    -moz-transition: all .4s ease-out 0s;
+    -ms-transition: all .4s ease-out 0s;
+    -o-transition: all .4s ease-out 0s;
+    transition: all .4s ease-out 0s;
+    position: relative;
+    z-index: 1;
+}
+.mb-50 {
+    margin-bottom: 50px;
+}
+.text-center {
+    text-align: center!important;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.categories-area .single-cat:hover
+{
+background: #e1bf11;
+cursor: grab;
+
+}
+.cat-cap>img
+{
+  margin: 40px;
+}
+
+.companies-border
+{
+  display: inline-block;
+  border:1px solid #e1ebf7;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+
+.companies-border:hover
+{
+  cursor: grab;
+  display: inline-block;
+  border: 2px solid #ed9421;
+  border-radius: 10px;
+  padding: 10px;
+  background: #ed9421;
+  width: 200px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Rufina",serif;
+    color: #000a2d;
+    margin-top: 0;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: normal;
+}
+.contact-info-area .contact-caption p {
+    margin-bottom: 80px;
+}
+
+.contact-info-area .contact-wrapper input {
+    background: #fff;
+    height: 60px;
+    width: 100%;
+    padding: 10px 26px;
+    border: 0;
+    color: #a3a3a3;
+    font-weight: 500;
+    text-transform: capitalize;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 30px;
+}
+button, input {
+    overflow: visible;
+}
+button, input, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+element.style {
+    background: #fef8fa;
+}
+
+submit-btn2 {
+    background: #ec5b53;
+    width: 100%;
+    height: 60px;
+    padding: 10px 20px;
+    border: 12px solid black!important;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 0;
+}
+[type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+a, button {
+    color: #fff;
+    outline: medium none;
+}
+button, select {
+    text-transform: none;
+}
+button, input {
+    overflow: visible;
+}
+button, input, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button {
+    border-radius: 0;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+
+.contact-info-area .contact-wrapper textarea {
+    color: #a3a3a3;
+    background: #fff;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    height: 160px;
+    width: 100%;
+    padding: 30px 26px;
+    border:1px solid #e1ebf7!important;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 30px;
+}
+button:focus, input:focus, input:focus, textarea, textarea:focus {
+    outline: 0;
+}
+textarea {
+    overflow: auto;
+    resize: vertical;
+}
+button, input, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border:1px solid #e1ebf7!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+textarea {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    flex-direction: column;
+    resize: auto;
+
+    cursor: text;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    column-count: initial !important;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    border-width: 1px;
+    border-style: solid;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    padding: 2px;
+}
+
+
+
+
+
+
+
+
+
+.submit-btn2 {
+    background: #da3e35;
+    width: 100%;
+    height: 60px;
+    padding: 10px 20px;
+    border: 0;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 0;
+}
+[type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+a, button {
+    color: #fff;
+    outline: medium none;
+}
+button, select {
+    text-transform: none;
+}
+button, input {
+    overflow: visible;
+}
+button, input, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button {
+    border-radius: 0;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+
+
+
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px)
+.footer-padding {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+@media (min-width: 576px)
+.container {
+    max-width: 540px;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.text-center {
+    text-align: center!important;
+}
+.footer-area .footer-bottom {
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.col-12, .col-lg-10, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-md-1, .col-md-10, .col-md-3, .col-md-4, .col-md-6, .col-md-8, .col-md-9, .col-sm-4, .col-sm-6, .col-sm-8, .col-xl-10, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-9 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.footer-area {
+    background: #ee9e1e;
+    border: 5px solid #ee9e1e;
+    border-radius: 5px;
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px)
+.footer-area .footer-top .footer-top-cap span a {
+    font-size: 45px;
+}
+.footer-area .footer-top .footer-top-cap span a {
+    font-size: 50px;
+    display: block;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+a, button {
+    color: #fff;
+    outline: medium none;
+}
+a {
+    color: #635c5c;
+}
+a, .button {
+    -webkit-transition: all .3s ease-out 0s;
+    -moz-transition: all .3s ease-out 0s;
+    -ms-transition: all .3s ease-out 0s;
+    -o-transition: all .3s ease-out 0s;
+    transition: all .3s ease-out 0s;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer-area .footer-top .footer-top-cap p {
+    color: black;
+    font-style: italic;
+    margin-bottom: 1px;
+}
+p {
+    font-family: "Rubik",sans-serif;
+    color: #10285d;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+
+
+
+
+
+.facebook
+{
+
+  display: flex;
+  padding-left: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.facebook >img
+{
+  margin: 20px;
+}
+.facebook>h2
+{cursor: grab;
+color:white!important;
+border: 10px solid #f7291d;
+background: #f7291d;
+  border-radius: 10px;
+  position: relative;
+  left: -50px;
+}
+
+.facebook>img:hover
+{
+  background: #f7291d;
+  
+}
